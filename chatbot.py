@@ -26,7 +26,7 @@ os.environ['REQUESTS_CA_BUNDLE'] = certifi.where()
 
 # ==== CONFIGURATION ====
 # NVIDIA API Configuration (replacing OpenRouter)
-NVIDIA_API_KEY = "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"
+NVIDIA_API_KEY = "YOUR_API_KEY"
 NVIDIA_API_URL = "https://integrate.api.nvidia.com/v1/chat/completions"
 PROMPT_LIMIT = 50
 COOLDOWN_HOURS = 24
