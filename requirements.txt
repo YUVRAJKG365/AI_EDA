@@ -5,6 +5,7 @@ anyio
 asttokens
 attrs
 blinker
+bs4
 cachetools
 certifi
 cffi
@@ -22,7 +23,9 @@ contourpy
 cryptography
 cycler
 Cython
+catboost
 dask
+duckdb
 debugpy
 decorator
 etelemetry
@@ -59,6 +62,7 @@ llvmlite
 locket
 looseversion
 lxml
+langdetect
 MarkupSafe
 matplotlib
 matplotlib-inline
@@ -73,6 +77,7 @@ numba
 numpy
 numpy-typing-compat
 optype
+opencv-python-headless
 packaging
 pandas
 parso
@@ -81,6 +86,7 @@ pathlib
 patsy
 piexif
 pillow
+python-docx
 pip
 platformdirs
 plotly
