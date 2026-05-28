@@ -150,3 +150,7 @@ wcwidth
 websockets
 wordcloud
 xgboost
+lightgbm
+lime
+eli5
+category-encoders
