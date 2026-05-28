@@ -28,7 +28,6 @@ decorator
 etelemetry
 executing
 filelock
-fitz
 fonttools
 fpdf
 frontend
@@ -106,6 +105,7 @@ python-multipart
 pyxnat
 PyYAML
 pyzmq
+PyMuPDF
 rdflib
 referencing
 requests
