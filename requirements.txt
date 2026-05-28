@@ -45,3 +45,4 @@ wordcloud
 transformers
 sumy
 spacy
+cv2
