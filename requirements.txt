@@ -1,4 +1,3 @@
-```txt
 acres
 aiofiles
 altair
@@ -145,4 +144,3 @@ wcwidth
 websockets
 wordcloud
 xgboost
-```
