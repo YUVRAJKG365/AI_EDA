@@ -5,7 +5,7 @@ anyio
 asttokens
 attrs
 blinker
-bs4
+beautifulsoup4
 cachetools
 certifi
 cffi
@@ -25,6 +25,7 @@ cycler
 Cython
 catboost
 dask
+distributed
 duckdb
 debugpy
 decorator
@@ -33,7 +34,6 @@ executing
 filelock
 fonttools
 fpdf
-frontend
 fsspec
 fuzzywuzzy
 gitdb
@@ -82,12 +82,10 @@ packaging
 pandas
 parso
 partd
-pathlib
 patsy
 piexif
 pillow
 python-docx
-pip
 platformdirs
 plotly
 pmdarima
@@ -120,7 +118,6 @@ scikit-learn
 scipy
 scipy-stubs
 seaborn
-setuptools
 shap
 simplejson
 six
@@ -154,3 +151,20 @@ lightgbm
 lime
 eli5
 category-encoders
+nltk 
+textblob 
+vaderSentiment 
+spacy 
+gensim 
+umap-learn 
+transformers 
+torch 
+sumy 
+sentencepiece 
+sacremoses
+python-pptx
+scikit-image
+deepface
+tf-keras
+tensorflow
+retina-face
