@@ -129,7 +129,7 @@ st.markdown(
     <div class="header-box">
         <div style="font-size: 1.2rem; margin-bottom: 5px; font-weight: 400;">✨ AI Powered EDA </div>
         <div style="font-size: 1.5rem;">Advanced Data Analysis Tool</div>
-        <div style="font-size: 0.9rem; margin-top: 10px; font-weight: 300;">By <span style="color: #FFD700; font-weight: 600;">YUPS</span></div>
+        <div style="font-size: 0.9rem; margin-top: 10px; font-weight: 300;">By <span style="color: #FFD700; font-weight: 600;">YUVRAJ KUMAR GOND</span></div>
     </div>
     """,
     unsafe_allow_html=True
@@ -219,9 +219,9 @@ st.sidebar.markdown(
     """
     <div style="text-align: center; font-size: 0.9rem; color: #6c757d;">
         <p><strong>Advanced EDA Tool</strong></p>
-        <p>Version: <b>2.0</b></p>
+        <p>Version: <b>3.0</b></p>
         <p>By</p>
-        <p><b>YUPS</b></p>
+        <p><b>YKG365</b></p>
         <p>© 2026 All Rights Reserved</p>
     </div>
     """,
