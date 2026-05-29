@@ -168,3 +168,5 @@ deepface
 tf-keras
 tensorflow
 retina-face
+libgl1
+libglib2.0-0
